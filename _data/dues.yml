@@ -1,15 +1,11 @@
-balance_so_far: 9509.31
+balance_so_far: 10523.93
 balances_by_account_labels:
-  Konto Jacka: 5842.870000000001
-  Konto stowarzyszenia: 3866.42
-dues_last_updated: 17-08-2021
-dues_monthly_goal: 2000
+  Konto Jacka: 7977.910000000003
+  Konto stowarzyszenia: 4746.0
+dues_last_updated: 12-10-2021
 dues_num_subscribers: 13
-dues_so_far: 15047.36
-dues_total_correction: -8153.389
-dues_total_goal: 7500
-dues_total_lastmonth: 1996.0
-extra_monthly_reservations: 1800
+dues_total_lastmonth: 1550.0
+extra_monthly_reservations: 2200
 monthly:
   Bilans:
     2020-04:
@@ -21,7 +17,7 @@ monthly:
     2020-07:
       Suma: 800.0
     2020-08:
-      Suma: 1005.64
+      Suma: 1105.6399999999999
     2020-09:
       Suma: 1650.0
     2020-10:
@@ -33,19 +29,23 @@ monthly:
     2021-01:
       Suma: -379.6199999999999
     2021-02:
-      Suma: 188.67999999999984
+      Suma: 786.03
     2021-03:
-      Suma: 340.8799999999999
+      Suma: 340.8600000000001
     2021-04:
-      Suma: 316.71000000000004
+      Suma: 20.70999999999981
     2021-05:
-      Suma: 788.96
+      Suma: 488.96000000000004
     2021-06:
       Suma: 618.8399999999999
     2021-07:
-      Suma: 941.6200000000001
+      Suma: 941.6199999999994
     2021-08:
-      Suma: -46.90000000000009
+      Suma: 426.6700000000001
+    2021-09:
+      Suma: 194.61000000000013
+    2021-10:
+      Suma: 245.11
   Przychody:
     2020-04:
       Suma: 1232.0
@@ -56,7 +56,7 @@ monthly:
     2020-07:
       Suma: 800.0
     2020-08:
-      Suma: 1300.0
+      Suma: 1400.0
     2020-09:
       Suma: 1650.0
     2020-10:
@@ -70,17 +70,21 @@ monthly:
     2021-02:
       Suma: 2042.0
     2021-03:
-      Suma: 2046.02
+      Suma: 2046.0
     2021-04:
-      Suma: 2317.37
+      Suma: 2021.37
     2021-05:
-      Suma: 2096.0
+      Suma: 1796.0
     2021-06:
       Suma: 1746.0
     2021-07:
-      Suma: 2300.0
+      Suma: 3625.99
     2021-08:
-      Suma: 1496.0
+      Suma: 2296.0
+    2021-09:
+      Suma: 1592.0
+    2021-10:
+      Suma: 1100.0
   Saldo:
     2020-04:
       Suma: 1232.0
@@ -91,42 +95,48 @@ monthly:
     2020-07:
       Suma: 3645.37
     2020-08:
-      Suma: 4651.01
+      Suma: 4751.01
     2020-09:
-      Suma: 6301.01
+      Suma: 6401.01
     2020-10:
-      Suma: 5770.0
+      Suma: 5870.0
     2020-11:
-      Suma: 6050.7
+      Suma: 6150.7
     2020-12:
-      Suma: 6740.139999999999
+      Suma: 6840.139999999999
     2021-01:
-      Suma: 6360.5199999999995
+      Suma: 6460.5199999999995
     2021-02:
-      Suma: 6549.199999999999
+      Suma: 7246.549999999999
     2021-03:
-      Suma: 6890.079999999999
+      Suma: 7587.41
     2021-04:
-      Suma: 7206.789999999999
+      Suma: 7608.12
     2021-05:
-      Suma: 7995.749999999999
+      Suma: 8097.08
     2021-06:
-      Suma: 8614.589999999998
+      Suma: 8715.92
     2021-07:
-      Suma: 9556.21
+      Suma: 9657.539999999999
     2021-08:
-      Suma: 9509.31
+      Suma: 10084.21
+    2021-09:
+      Suma: 10278.82
+    2021-10:
+      Suma: 10523.93
   Wydatki:
     2020-08:
       Meetup: 294.36
     2020-10:
-      "Pozosta\u0142e": 800.0
+      Czynsz: 800.0
       Remont: 1145.0
     2020-11:
-      "Pozosta\u0142e": 1315.3
+      Czynsz: 800.0
+      "Pozosta\u0142e": 515.3
     2020-12:
+      Czynsz: 800.0
       Internet: 118.96
-      "Pozosta\u0142e": 1037.6
+      "Pozosta\u0142e": 237.6
     2021-01:
       Czynsz: 800.0
       Drukarka HP: 314.0
@@ -139,7 +149,7 @@ monthly:
       Domena: 55.34
       Internet: 54.89
       "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 298.46
-      "Pozosta\u0142e": 644.63
+      "Pozosta\u0142e": 47.28
     2021-03:
       Czynsz: 800.0
       Internet: 54.89
@@ -166,28 +176,19 @@ monthly:
       "Ksi\u0119gowo\u015B\u0107": 25.0
       "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 177.42
       Meetup (za 6 mies.): 301.07
+      "Pozosta\u0142e": 1325.99
     2021-08:
       Czynsz: 800.0
       Internet: 54.89
+      "Ksi\u0119gowo\u015B\u0107": 25.0
       "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 149.4
-      Zakupy: 538.61
-obligations:
-  "Czynsz (w tym: podatki i \u015Bmieci, bez wody)":
-    amount_pln: 800.0
-    every_months: 1
-  Domena hs-ldz.pl:
-    amount_pln: 50.0
-    every_months: 12
-  Internet Toya 100mbps:
-    amount_pln: 54.89
-    every_months: 1
-  "Meetup (73.73 USD \xB1 kurs)":
-    amount_pln: 290.0
-    every_months: 6
-  "Pr\u0105d (150% \u015Br. op\u0142., zaokr.)":
-    amount_pln: 600
-    every_months: 1
-obligations_reserve_months: 3
-reservations:
-  "Wyr\xF3wnanie ze starym stanem":
-    amount_pln: 327.83
+      Zakupy: 840.04
+    2021-09:
+      Czynsz: 800.0
+      Internet: 54.89
+      "Ksi\u0119gowo\u015B\u0107": 25.0
+      "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 177.5
+      "Pozosta\u0142e": 340.0
+    2021-10:
+      Czynsz: 800.0
+      Internet: 54.89
