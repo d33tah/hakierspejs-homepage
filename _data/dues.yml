@@ -1,62 +1,64 @@
-balance_so_far: 10523.93
+balance_so_far: 7682.559999999996
 balances_by_account_labels:
-  Konto Jacka: 7977.910000000003
-  Konto stowarzyszenia: 4746.0
-dues_last_updated: 12-10-2021
-dues_num_subscribers: 13
-dues_total_lastmonth: 1550.0
-extra_monthly_reservations: 2200
+  Konto Jacka: 4648.000000000001
+  Konto stowarzyszenia: 5234.540000000001
+dues_last_updated: 17-11-2021
+dues_num_subscribers: 1
+dues_total_lastmonth: 2653.000000000001
+extra_monthly_reservations: 2400
 monthly:
   Bilans:
     2020-04:
-      Suma: 1232.0
+      Suma: 1432.0
     2020-05:
-      Suma: 717.37
+      Suma: 817.37
     2020-06:
       Suma: 896.0
     2020-07:
       Suma: 800.0
     2020-08:
-      Suma: 1105.6399999999999
+      Suma: 811.2800000000003
     2020-09:
       Suma: 1650.0
     2020-10:
       Suma: -531.01
     2020-11:
-      Suma: 280.70000000000005
+      Suma: -1004.1000000000004
     2020-12:
       Suma: 689.44
     2021-01:
-      Suma: -379.6199999999999
+      Suma: -693.619999999999
     2021-02:
-      Suma: 786.03
+      Suma: -152.08999999999992
     2021-03:
-      Suma: 340.8600000000001
+      Suma: 340.8599999999981
     2021-04:
-      Suma: 20.70999999999981
+      Suma: 20.710000000000036
     2021-05:
-      Suma: 488.96000000000004
+      Suma: 884.9899999999996
     2021-06:
-      Suma: 618.8399999999999
+      Suma: 618.8400000000001
     2021-07:
       Suma: 941.6199999999994
     2021-08:
-      Suma: 426.6700000000001
+      Suma: -513.0200000000023
     2021-09:
-      Suma: 194.61000000000013
+      Suma: -191.849999999999
     2021-10:
-      Suma: 245.11
+      Suma: 1351.2199999999998
+    2021-11:
+      Suma: -486.0799999999999
   Przychody:
     2020-04:
-      Suma: 1232.0
+      Suma: 1432.0
     2020-05:
-      Suma: 717.37
+      Suma: 817.37
     2020-06:
       Suma: 896.0
     2020-07:
       Suma: 800.0
     2020-08:
-      Suma: 1400.0
+      Suma: 1200.0
     2020-09:
       Suma: 1650.0
     2020-10:
@@ -66,15 +68,15 @@ monthly:
     2020-12:
       Suma: 1846.0
     2021-01:
-      Suma: 1850.0
+      Suma: 1850.000000000001
     2021-02:
-      Suma: 2042.0
+      Suma: 1842.0
     2021-03:
-      Suma: 2046.0
+      Suma: 2045.9999999999982
     2021-04:
       Suma: 2021.37
     2021-05:
-      Suma: 1796.0
+      Suma: 2392.0299999999997
     2021-06:
       Suma: 1746.0
     2021-07:
@@ -84,55 +86,60 @@ monthly:
     2021-09:
       Suma: 1592.0
     2021-10:
-      Suma: 1100.0
+      Suma: 2328.0
+    2021-11:
+      Suma: 1525.000000000001
   Saldo:
     2020-04:
-      Suma: 1232.0
+      Suma: 1432.0
     2020-05:
-      Suma: 1949.37
+      Suma: 2249.37
     2020-06:
-      Suma: 2845.37
+      Suma: 3145.37
     2020-07:
-      Suma: 3645.37
+      Suma: 3945.37
     2020-08:
-      Suma: 4751.01
+      Suma: 4756.650000000001
     2020-09:
-      Suma: 6401.01
+      Suma: 6406.650000000001
     2020-10:
-      Suma: 5870.0
+      Suma: 5875.64
     2020-11:
-      Suma: 6150.7
+      Suma: 4871.54
     2020-12:
-      Suma: 6840.139999999999
+      Suma: 5560.98
     2021-01:
-      Suma: 6460.5199999999995
+      Suma: 4867.360000000001
     2021-02:
-      Suma: 7246.549999999999
+      Suma: 4715.27
     2021-03:
-      Suma: 7587.41
+      Suma: 5056.129999999998
     2021-04:
-      Suma: 7608.12
+      Suma: 5076.839999999998
     2021-05:
-      Suma: 8097.08
+      Suma: 5961.829999999998
     2021-06:
-      Suma: 8715.92
+      Suma: 6580.669999999998
     2021-07:
-      Suma: 9657.539999999999
+      Suma: 7522.289999999997
     2021-08:
-      Suma: 10084.21
+      Suma: 7009.269999999995
     2021-09:
-      Suma: 10278.82
+      Suma: 6817.419999999996
     2021-10:
-      Suma: 10523.93
+      Suma: 8168.639999999996
+    2021-11:
+      Suma: 7682.559999999996
   Wydatki:
     2020-08:
       Meetup: 294.36
+      "Pozosta\u0142e": 94.35999999999967
     2020-10:
       Czynsz: 800.0
       Remont: 1145.0
     2020-11:
       Czynsz: 800.0
-      "Pozosta\u0142e": 515.3
+      "Pozosta\u0142e": 1800.1000000000001
     2020-12:
       Czynsz: 800.0
       Internet: 118.96
@@ -141,54 +148,53 @@ monthly:
       Czynsz: 800.0
       Drukarka HP: 314.0
       Internet: 54.89
-      "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 625.3
       Meetup (za 6 mies.): 285.43
-      "Pozosta\u0142e": 150.0
+      "Pozosta\u0142e": 1089.3
     2021-02:
       Czynsz: 800.0
       Domena: 55.34
       Internet: 54.89
-      "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 298.46
-      "Pozosta\u0142e": 47.28
+      "Pozosta\u0142e": 1083.86
     2021-03:
       Czynsz: 800.0
       Internet: 54.89
-      "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 340.63
-      "Pozosta\u0142e": 509.62
+      "Pozosta\u0142e": 850.25
     2021-04:
       Czynsz: 800.0
       Internet: 54.89
-      "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 1145.77
+      "Pozosta\u0142e": 1145.77
     2021-05:
       Czynsz: 800.0
       Internet: 54.89
       "Ksi\u0119gowo\u015B\u0107": 25.0
-      "Pozosta\u0142e": 427.15
+      "Pozosta\u0142e": 627.1500000000001
     2021-06:
       Czynsz: 800.0
       Internet: 54.89
       "Ksi\u0119gowo\u015B\u0107": 25.0
-      "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 223.04
-      "Pozosta\u0142e": 24.23
+      "Pozosta\u0142e": 247.26999999999998
     2021-07:
       Czynsz: 800.0
       Internet: 54.89
       "Ksi\u0119gowo\u015B\u0107": 25.0
-      "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 177.42
       Meetup (za 6 mies.): 301.07
-      "Pozosta\u0142e": 1325.99
+      "Pozosta\u0142e": 1503.41
     2021-08:
       Czynsz: 800.0
       Internet: 54.89
       "Ksi\u0119gowo\u015B\u0107": 25.0
-      "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 149.4
+      "Pozosta\u0142e": 1089.090000000002
       Zakupy: 840.04
     2021-09:
       Czynsz: 800.0
       Internet: 54.89
       "Ksi\u0119gowo\u015B\u0107": 25.0
-      "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 177.5
-      "Pozosta\u0142e": 340.0
+      "Pozosta\u0142e": 903.9599999999991
     2021-10:
       Czynsz: 800.0
       Internet: 54.89
+      "Pozosta\u0142e": 121.89000000000033
+    2021-11:
+      Czynsz: 800.0
+      "Ksi\u0119gowo\u015B\u0107": 25.0
+      "Pozosta\u0142e": 1186.0800000000008
