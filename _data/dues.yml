@@ -5,6 +5,8 @@ balances_by_account_labels:
 dues_last_updated: 17-11-2021
 dues_num_subscribers: 1
 dues_total_lastmonth: 2653.000000000001
+dues_total_goal: 7500
+dues_monthly_goal: 2000
 extra_monthly_reservations: 2400
 monthly:
   Bilans:
