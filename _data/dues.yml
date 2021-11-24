@@ -1,13 +1,11 @@
 balance_so_far: 10957.599999999997
 balances_by_account_labels:
-  Konto Jacka: 4995.530000000001
-  Konto stowarzyszenia: 5962.070000000001
-dues_last_updated: 16-11-2021
-dues_num_subscribers: 1
-dues_total_lastmonth: 2653.000000000001
-dues_total_goal: 7500
-dues_monthly_goal: 2000
-extra_monthly_reservations: 2400
+  Konto Jacka: 4995.529999999999
+  Konto stowarzyszenia: 5962.069999999999
+dues_last_updated: 17-11-2021
+dues_num_subscribers: 16
+dues_total_lastmonth: 2328.0
+extra_monthly_reservations: 2600
 monthly:
   Bilans:
     2020-04:
@@ -23,9 +21,9 @@ monthly:
     2020-09:
       Suma: 1650.0
     2020-10:
-      Suma: 613.99
+      Suma: 413.99
     2020-11:
-      Suma: -864.3000000000002
+      Suma: -664.3000000000002
     2020-12:
       Suma: 689.44
     2021-01:
@@ -43,11 +41,11 @@ monthly:
     2021-07:
       Suma: 1242.6899999999996
     2021-08:
-      Suma: 327.01999999999794
+      Suma: 327.01999999999816
     2021-09:
-      Suma: -191.849999999999
+      Suma: 5.710000000000491
     2021-10:
-      Suma: 1351.2199999999998
+      Suma: 1153.6599999999994
     2021-11:
       Suma: -486.0799999999999
   Przychody:
@@ -64,7 +62,7 @@ monthly:
     2020-09:
       Suma: 1650.0
     2020-10:
-      Suma: 1413.99
+      Suma: 1213.99
     2020-11:
       Suma: 1596.0
     2020-12:
@@ -90,7 +88,7 @@ monthly:
     2021-10:
       Suma: 2328.0
     2021-11:
-      Suma: 1525.000000000001
+      Suma: 1500.0
   Saldo:
     2020-04:
       Suma: 1232.0
@@ -105,7 +103,7 @@ monthly:
     2020-09:
       Suma: 6401.01
     2020-10:
-      Suma: 7015.0
+      Suma: 6815.0
     2020-11:
       Suma: 6150.7
     2020-12:
@@ -127,7 +125,7 @@ monthly:
     2021-08:
       Suma: 10284.309999999996
     2021-09:
-      Suma: 10092.459999999997
+      Suma: 10290.019999999997
     2021-10:
       Suma: 11443.679999999997
     2021-11:
@@ -139,7 +137,7 @@ monthly:
       Czynsz: 800.0
     2020-11:
       Czynsz: 800.0
-      "Pozosta\u0142e": 1660.3000000000002
+      "Pozosta\u0142e": 1460.3000000000002
     2020-12:
       Czynsz: 800.0
       Internet: 118.96
@@ -147,19 +145,22 @@ monthly:
     2021-01:
       Czynsz: 800.0
       Internet: 54.89
-      "Pozosta\u0142e": 1089.3
+      "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 625.3
+      "Pozosta\u0142e": 464.0
     2021-02:
       Czynsz: 800.0
       Internet: 54.89
-      "Pozosta\u0142e": 1083.86
+      "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 298.46
+      "Pozosta\u0142e": 785.3999999999999
     2021-03:
       Czynsz: 800.0
       Internet: 54.89
-      "Pozosta\u0142e": 850.25
+      "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 340.63
+      "Pozosta\u0142e": 509.62
     2021-04:
       Czynsz: 800.0
       Internet: 54.89
-      "Pozosta\u0142e": 1145.77
+      "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 1145.77
     2021-05:
       Czynsz: 800.0
       Internet: 54.89
@@ -169,47 +170,32 @@ monthly:
       Czynsz: 800.0
       Internet: 54.89
       "Ksi\u0119gowo\u015B\u0107": 25.0
-      "Pozosta\u0142e": 247.26999999999998
+      "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 223.04
+      "Pozosta\u0142e": 24.23
     2021-07:
       Czynsz: 800.0
       Internet: 54.89
       "Ksi\u0119gowo\u015B\u0107": 25.0
-      "Pozosta\u0142e": 1503.41
+      "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 177.42
+      "Pozosta\u0142e": 1325.99
     2021-08:
       Czynsz: 800.0
       Internet: 54.89
       "Ksi\u0119gowo\u015B\u0107": 25.0
-      "Pozosta\u0142e": 1089.090000000002
+      "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 149.4
+      "Pozosta\u0142e": 939.6900000000019
     2021-09:
       Czynsz: 800.0
       Internet: 54.89
       "Ksi\u0119gowo\u015B\u0107": 25.0
-      "Pozosta\u0142e": 903.9599999999991
+      "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 177.5
+      "Pozosta\u0142e": 528.8999999999996
     2021-10:
       Czynsz: 800.0
       Internet: 54.89
-      "Pozosta\u0142e": 121.89000000000033
+      "Pozosta\u0142e": 319.4500000000007
     2021-11:
       Czynsz: 800.0
       "Ksi\u0119gowo\u015B\u0107": 25.0
-      "Pozosta\u0142e": 1186.0800000000008
-obligations:
-  "Czynsz (w tym: podatki i \u015Bmieci, bez wody)":
-    amount_pln: 800.0
-    every_months: 1
-  Domena hs-ldz.pl:
-    amount_pln: 50.0
-    every_months: 12
-  Internet Toya 100mbps:
-    amount_pln: 54.89
-    every_months: 1
-  "Meetup (73.73 USD \xB1 kurs)":
-    amount_pln: 290.0
-    every_months: 6
-  "Pr\u0105d (150% \u015Br. op\u0142., zaokr.)":
-    amount_pln: 600
-    every_months: 1
-obligations_reserve_months: 3
-reservations:
-  "Wyr\xF3wnanie ze starym stanem":
-    amount_pln: 327.83
+      "Media (g\u0142\xF3wnie pr\u0105d) i inne rozliczenia w zw. z lokalem": 706.38
+      "Pozosta\u0142e": 454.6999999999998
